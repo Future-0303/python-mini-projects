@@ -81,7 +81,7 @@ If you are new to Github and open source, visit [here.](https://towardsdatascien
     ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-- Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
+- Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification!.
 
 ## README Template for scripts
 
@@ -198,5 +198,6 @@ SR No   | Project | Author
 101 | [Whatsapp Bot](https://github.com/Python-World/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
 102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
+
 
 
