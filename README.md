@@ -91,7 +91,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 [Join WhatsApp group](https://chat.whatsapp.com/GlLTqQSbocLC23ntKU15O9)
 
-## Contributors ✨
+## Contributors ✨👌
 
 SR No   | Project | Author  
 --- | --- | ---
@@ -198,3 +198,4 @@ SR No   | Project | Author
 101 | [Whatsapp Bot](https://github.com/Python-World/python-mini-projects/tree/master/projects/whatsapp_Bot)| [urmil89](https://github.com/urmil89)
 102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
+
